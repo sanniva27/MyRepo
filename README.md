@@ -1,0 +1,1 @@
+The repo contains end to end automation testing of open cart e commerce application utilising Selenium, Java, TestNG , maven and cucumber and report generation using Extent Reports. Conducted data-driven testing leveraging Excel files as repositories for test data
